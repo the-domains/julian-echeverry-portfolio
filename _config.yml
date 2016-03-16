@@ -1,7 +1,7 @@
 name: julian Echeverry Portfolio
 favicon: null
 layout_spectrum: 0.32032986963167787
-typography_spectrum: 0.7432623710483313
+typography_spectrum: 0.84321
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.9868632000871003
   lightness: 0.3296261024661362
   saturation: 0.3266245878767222
-  rhythmicContrast: 0.9479544647037983
+  rhythmicContrast: 1
 purpose: []
